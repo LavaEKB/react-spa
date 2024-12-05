@@ -1,7 +1,6 @@
 {
   "name": "react-spa",
   "home": "https://LavaEKB.github.io/react-spa",
-  "homepage": "./react-spa",
   "version": "0.1.0",
   "private": true,
   "overrides": {
