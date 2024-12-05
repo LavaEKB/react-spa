@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Header />
       <main className='container content'>
-        <Routes basename='/react-spa'>
+        <Routes >
           <Route path='/' element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contacts" element={<Contact />} />
